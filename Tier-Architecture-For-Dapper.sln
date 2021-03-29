@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tier-Architecture-For-Dapper", "Tier-Architecture-For-Dapper\Tier-Architecture-For-Dapper.csproj", "{3F68C1D4-178B-4831-A54A-E10E693F782F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F68C1D4-178B-4831-A54A-E10E693F782F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F68C1D4-178B-4831-A54A-E10E693F782F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F68C1D4-178B-4831-A54A-E10E693F782F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F68C1D4-178B-4831-A54A-E10E693F782F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE5D6C93-2A58-496B-9CEE-7FB9722A3B84}
+	EndGlobalSection
+EndGlobal
